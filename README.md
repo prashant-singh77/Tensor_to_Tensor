@@ -136,7 +136,7 @@ natural language processing** through hands-on experimentation.
 
 ## 👨‍💻 Author
 
-**Alpha**
+**Prashant**
 
 ------------------------------------------------------------------------
 
